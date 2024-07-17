@@ -85,16 +85,6 @@ DemoBlaze
 - Maven
 - Chrome browser
 
-
-
-### Running the Tests
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/DemoBlazeAutomation.git
-   cd DemoBlazeAutomation
-    ```
-
 ### 🤝 Contributions
 Contributions are welcome. If you want to contribute to the project, please fork the repository, make your changes and submit a pull request.
 
